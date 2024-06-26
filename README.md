@@ -1,4 +1,4 @@
-- 👋 wenas, soy ohjhas
-- 👀 me gusta linux
+- 👋 soy ohjhas
+- 👀 aficionado a linux
 - 🌱 tengo 17 años y voy en la escuela :)
 - 📫 soy desarrollador de OmegaLinux
