@@ -1,4 +1,2 @@
-- 👋 soy ohjhas
-- 👀 aficionado a linux
-- 🌱 tengo 17 años y voy en la escuela :)
-- 📫 soy desarrollador de OmegaLinux
+Hola
+Soy Ibsan Baza (conocido como ohjhas) soy aficionado a Linux y otras cosas, Soy el unico desarrollador de OmegaLinux y ahora tengo 17 años :)
