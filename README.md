@@ -41,7 +41,7 @@ codename: j5lte
 
 state: Fully functional.
 
-# Samsung Galaxy Note II
+# SAMSUNG GALAXY Note II
 
 codename: t03g
 
